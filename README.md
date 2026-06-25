@@ -30,7 +30,7 @@
 ### 🎓 What I teach
 - **C++**, **Python**, and **Android (Java)** development
 - **Microsoft Office** & computer literacy
-- to BTech ICT students at **Ho Technical University**
+- to IT & Computer Science students at **Ho Technical University**
 
 ### 📦 Featured projects
 - **Respira AI** — a pneumonia-detection tool; the Django backend serves a trained model hosted on ⟨Hugging Face⟩. ⟨repo link once pushed⟩
