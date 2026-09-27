@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rockson 👋</h1>
 
 <p align="center">
-  Developer & CS educator in Ghana — I build across <b>IoT, web, mobile, and ML</b>,
+  Developer & CS educator in Ghana — I build across <b>IoT, web & mobile</b>,
   and teach the next wave of developers at <b>Ho Technical University.</b>
 </p>
 
